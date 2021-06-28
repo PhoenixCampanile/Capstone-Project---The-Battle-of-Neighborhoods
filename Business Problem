@@ -1,1 +1,3 @@
 Problem: Stake holders are looking for the best place to open a new dine-in restaurant in the city of Philadelphia. 
+To solve this problem the Foursquare API will be used to gather data on the neighborhoods in Philadelphia and to explore the different types of restaraunts 
+that they have to offer. The data will by clustered to find which neighborhoods have successful restaraunts, but are not too crouwded with restaraunts already.
